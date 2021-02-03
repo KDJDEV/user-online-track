@@ -66,3 +66,4 @@ urllib3==1.26.2
 w3lib==1.22.0
 Werkzeug==1.0.1
 yarl==1.6.3
+pytz==2021.1
